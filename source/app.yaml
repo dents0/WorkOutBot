@@ -1,0 +1,5 @@
+runtime: python38
+service: workout-minibot
+env_variables:
+  PROJECT_ID: "tsokarev-gcp-test"
+  GAE_URL: "https://workout-minibot-dot-tsokarev-gcp-test.appspot.com/"
