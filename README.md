@@ -15,16 +15,16 @@
 `/workout_1` - Workout I \
 `/workout_2` - Workout II \
 `/workout_3` - Workout III \
-`/cardio` - Cardio workout suggestion \
+`/cardio` - Cardio workout suggestion
 
 `/legs` - Leg exercises \
 `/chest` - Chest exercises \
 `/back` - Back exercises \
 
 `/about` - About the bot \
-`/link` - Bot link \
+`/link` - Bot link
 
 ---
 
 
-  [1]: https://t.me/min_workout_bot
+  [1]: https://t.me/WorkOut_miniBot
