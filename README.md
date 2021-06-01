@@ -19,7 +19,7 @@
 
 `/legs` - Leg exercises \
 `/chest` - Chest exercises \
-`/back` - Back exercises \
+`/back` - Back exercises
 
 `/about` - About the bot \
 `/link` - Bot link
